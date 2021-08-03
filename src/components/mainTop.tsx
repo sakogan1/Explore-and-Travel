@@ -1,6 +1,4 @@
-import { Component } from 'react';
 import React from "react";
-import {Link} from "react-router-dom";
 import FirstImage from '../img/Img1.png';
 import Line from '../img/Line.png';
 
