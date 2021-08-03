@@ -22,7 +22,7 @@ const About: React.SFC<About> = () => {
 <div className="btn2">Download</div> 
 
 </div>
-<img src={ThirdImage} alt="IMAGE" />
+<img src={ThirdImage} alt="an image" />
 </div>
      );
 }

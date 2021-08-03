@@ -11,7 +11,7 @@ const Footer: React.SFC<Footer> = () => {
         <div className="social">
             <div className="footer">
             <div className="grid1">
-            <img src={Logo} alt="Logo" id="logo"/>
+            <img src={Logo} alt="Logo" id="logo of the site"/>
 
          <p>Plan and book your perfect trip with 
             expert advice, travel tips destination

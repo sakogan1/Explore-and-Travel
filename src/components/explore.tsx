@@ -14,7 +14,7 @@ const explore: React.SFC<explore> = () => {
 
 
 
-<img src={SecondImage} alt="IMAGE" />
+<img src={SecondImage} alt="second image" />
 <div className="explore">
 
 <h1>A new way to explore the world </h1>

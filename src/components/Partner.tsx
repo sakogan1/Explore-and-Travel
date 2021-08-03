@@ -24,7 +24,7 @@ const Partner: React.SFC<Partner> = () => {
             Founder Circle
             </p>
             </div>
-            <img src={FourthImage} alt="IMAGE" />
+            <img src={FourthImage} alt="fourth image" />
              </div>
          
             <div className="text">

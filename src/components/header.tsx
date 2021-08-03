@@ -10,7 +10,7 @@ const Header: React.SFC<Header> = () => {
     return ( 
         <div className="header">
     <nav>
-       <img src={Logo} alt="Logo" id="logo"/>
+       <img src={Logo} alt="Logo" id="another logo of the site footer location"/>
 
         <span></span>
         <ul><li><Link  to="/">Home</Link></li></ul>

@@ -17,7 +17,7 @@ const MainTop: React.SFC<MainTop> = () => {
 <div></div>
 <p>Holiday Finder</p>
 <div></div>
-<img src={Line} alt="IMAGE" id="Line"/>
+<img src={Line} alt="an image of the line" id="Line"/>
 <div></div>
     <input type="datalist" placeholder="Location"/>
      <input type="datalist" placeholder="Activity"/>
